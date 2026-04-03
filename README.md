@@ -20,18 +20,15 @@ It was created as part of my portfolio-building process to support job applicati
 
 - HTML
 - GitHub
-- GitHub Actions
-- Docker
-- Nginx
 - Render
 
 ## Live Deployments
 
-- Render: https://hello-world-pqy8.onrender.com
+- Render: https://portfolio-df51.onrender.com
 
 ## Source Code
 
-- Repository: https://github.com/anh-vu-dev/
+- Repository: https://github.com/anh-vu-dev/portfolio
 
 ## Purpose
 
